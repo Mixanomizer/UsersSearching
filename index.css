@@ -42,13 +42,6 @@ li {
   justify-content: space-between;
 }
 
-.btn-success {
-  background-color: #0cb400;
-}
-
-.btn-danger {
-  background-color: #df0000;
-}
 
 .btn-status {
   border-radius: 3px;
@@ -60,13 +53,7 @@ li {
   align-content: center;
 }
 
-.btn-position {
-  align-items: center;
-  display: flex;
-  padding: 1%;
-  width: 50px;
-  justify-content: space-between;
-}
+
 
 .pading {
   padding: 1%;
@@ -78,8 +65,7 @@ li {
 .text-decoration-line-trought {
   text-decoration: line-through;
 }
-.btn-completed {
-  background-color: gray;
+
 }
 #filter{
   padding: 1px 5px;
